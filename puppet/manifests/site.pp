@@ -7,3 +7,5 @@ File {
   group => 'root',
   mode  => '0644',
 }
+
+include c_dev
