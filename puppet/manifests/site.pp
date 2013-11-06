@@ -9,3 +9,4 @@ File {
 }
 
 include c_dev
+include java
