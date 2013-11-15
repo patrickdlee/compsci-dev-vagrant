@@ -10,6 +10,7 @@ File {
 
 include c_dev
 include java
+include mono
 include prolog
 include scheme
 include smalltalk
